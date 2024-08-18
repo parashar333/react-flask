@@ -1,0 +1,6 @@
+build:
+  docker:
+    web:
+      path: ./backend
+    frontend:
+      path: ./frontend
