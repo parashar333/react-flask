@@ -1,5 +1,4 @@
-# React-Flask Article Management System
-
+# React-Flask Application
 Live Demo
 You can view a live demo of the application at: https://react-flask-article-54a5a7525137.herokuapp.com/
 
